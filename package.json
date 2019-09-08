@@ -1,0 +1,22 @@
+{
+  "name": "fword-redis",
+  "version": "1.0.0",
+  "description": "Redis的学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenLittleWhite/fword-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwenLittleWhite/fword-redis/issues"
+  },
+  "homepage": "https://github.com/OwenLittleWhite/fword-redis#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
